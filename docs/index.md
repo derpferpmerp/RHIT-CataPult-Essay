@@ -1,5 +1,5 @@
 <div id="git-log">
-<pre>
+<pre style="text-align:center">
 <strong>-----|  A* Generator  |-----</strong>
 </pre>
 
@@ -18,7 +18,7 @@
 • <span class=" bold foreground-4">6b5401b</span> - <span class=" bold foreground-2">(6 days ago)</span> <span class=" foreground-7">Initial commit</span> <span class=" faint foreground-7">- ColeFleming</span><span class=" bold foreground-3"></span>
 </pre>
 
-<pre>
+<pre style="text-align:center">
 <strong>-----|  PacMan - (Front End)  |-----</strong>
 </pre>
 
@@ -32,7 +32,7 @@
 • <span class=" bold foreground-4">93c06b5</span> - <span class=" bold foreground-2">(5 days ago)</span> <span class=" foreground-7">Initial commit</span> <span class=" faint foreground-7">- ColeFleming</span><span class=" bold foreground-3"></span>
 </pre>
 
-<pre>
+<pre style="text-align:center">
 <strong>-----|  Final (My Version)  |-----</strong>
 </pre>
 
@@ -47,7 +47,7 @@
 
 <style>
 
-html { background-color: black; color: white; }
+html { background-color: black; color: white;}
 .foreground-1 { color: darkred; }
 .foreground-2 { color: darkgreen; }
 .foreground-3 { color: darkgoldenrod; }
